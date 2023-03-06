@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Linear Layout Task</string>
+    <string name="Name">Ahmed hassan</string>
+    <string name="Job_Title">Engineer</string>
+    <string name="Location">UK</string>
+    <string name="Country">Russian</string>
+    <string name="Time">5 Days ago</string>
+    <string name="reviews_num">(150 Reviews)</string>
+    <string name="rating_num">4.5</string>
+</resources>
